@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3295b29b-d392-4eb6-918a-1f0865f6a725" name="Default Changelist" comment="" />
+    <list default="true" id="429eb4ba-0be0-4fb7-b77b-c7d1a41d8188" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1oX8Jt2E9lsiCbmEkihVwNTsYmb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1oZZ61gCgWIeDyTmPmpBzNENvPN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -27,14 +19,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3295b29b-d392-4eb6-918a-1f0865f6a725" name="Default Changelist" comment="" />
-      <created>1613421506696</created>
+      <changelist id="429eb4ba-0be0-4fb7-b77b-c7d1a41d8188" name="Default Changelist" comment="" />
+      <created>1613495898337</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1613421506696</updated>
+      <updated>1613495898337</updated>
     </task>
     <servers />
   </component>
