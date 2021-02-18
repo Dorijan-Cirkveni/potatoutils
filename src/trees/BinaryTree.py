@@ -25,13 +25,17 @@ class BinaryTree:
     Basic binary tree.
     """
 
-    def __init__(self):
+    def __init__(self, nodeType=BinaryTreeNode):
+        self.nodeType = nodeType
         self.root: (BinaryTreeNode, None) = None
         self.size = 0
         return
 
     # -------------------------------------------------------------------------
     # The following functions do not change the data structure.
+    def make_node(self, value):
+        return self.nodeType(value)
+
     def __sizeof__(self):
         return self.size
 
