@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="429eb4ba-0be0-4fb7-b77b-c7d1a41d8188" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/shapes/Range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shapes/Range.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/shapes/Range.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,5 +42,11 @@
       <updated>1613495898337</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1614426944144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614426944144" />
   </component>
 </project>
