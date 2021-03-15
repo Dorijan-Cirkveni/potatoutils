@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/helloworld.py
+src/potatoutils.egg-info/PKG-INFO
+src/potatoutils.egg-info/SOURCES.txt
+src/potatoutils.egg-info/dependency_links.txt
+src/potatoutils.egg-info/top_level.txt

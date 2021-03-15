@@ -1,3 +1,15 @@
+from setuptools import setup
+
+setup(
+    name='potatoutils',
+    version='0.0.1',
+    description='bunch of handy data structures and stuff',
+    py_modules=["helloworld"],
+    package_dir={'':'src'}
+)
+
+"""
+
 import pathlib
 from setuptools import setup, find_packages
 
@@ -17,3 +29,5 @@ setup(
 )
 # packagedir={'': 'src'},
 # packages=find_packages(exclude=['tests*']),
+
+"""
