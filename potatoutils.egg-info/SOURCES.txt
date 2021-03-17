@@ -5,5 +5,7 @@ potatoutils.egg-info/PKG-INFO
 potatoutils.egg-info/SOURCES.txt
 potatoutils.egg-info/dependency_links.txt
 potatoutils.egg-info/top_level.txt
+potatoutils/abstractions/Comparable.py
+potatoutils/abstractions/__init__.py
 tests/__init__.py
 tests/test_util.py
